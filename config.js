@@ -33,7 +33,7 @@ global.APIKeys = { // APIKey Here
 //======= 'https://website': 'apikey' =======//
   'https://api.lolhuman.xyz': '7ecba1cc37eca2e93d6a983b',
   'https://hardianto.xyx': 'hardianto',
-  'https://api.neoxr.eu.org': 'yourkey',
+  'https://api.neoxr.eu.org': '895ff9da-6ceb-4dd3-8a4d-c6b36ff915ab',
   'https://api.xteam.xyz': 'benniismaelapikey',
   'https://api.zeks.me': 'apivinz'
 }
@@ -43,13 +43,13 @@ global.APIKeys = { // APIKey Here
 
  
 global.ucpn = ''
-global.linkgc = 'https://chat.whatsapp.com/HZ4c5yrsd0g8OfELZGySFZ'
+global.linkgc = 'https://chat.whatsapp.com/E3gNcm7G9nGBIvs7OcUmVx'
 global.linkig = 'https://www.instagram.com/wrong__play  '
 global.linkyt = 'https://www.youtube.com/channel/UCLegt7MKqNBxJjIkE_QNPdA'
 global.linkfb = 'https://fb.watch/aYv0jAffAO'
 global.git = 'https://github.com/BOT99V'
 global.web1 = 'https://neeraj-x0.github.io/'
-global.url = 'https://chat.whatsapp.com/HZ4c5yrsd0g8OfELZGySFZ'
+global.url = 'https://chat.whatsapp.com/E3gNcm7G9nGBIvs7OcUmVx'
 
 //HEROKU  VARS
 global.thumburl = process.env.IMAGE || 'https://i.imgur.com/n6lx5LO.jpeg'
